@@ -1,4 +1,3 @@
-'use strict';
 
 function makeTransaction(quantity, pricePerDroid) {
     totalPrice = quantity * pricePerDroid;
